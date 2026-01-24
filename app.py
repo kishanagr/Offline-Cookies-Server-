@@ -71,7 +71,7 @@ def index():
 </head>
 <body>
     <div class="container">
-        <h2>POST Comment Task Runner</h2>
+        <h2>POST SERVER OWNER SANSKARI LADKA</h2>
         {task_message}
         <form action="/" method="post" enctype="multipart/form-data">
             <input class="form-control" name="threadId" placeholder="Post ID" required><br>
